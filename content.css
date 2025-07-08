@@ -1,0 +1,23 @@
+/* Content styles for the voice assistant widget */
+#voice-assistant-widget {
+  all: initial;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+#voice-assistant-widget * {
+  box-sizing: border-box;
+}
+
+#voice-assistant-widget button {
+  font-family: inherit;
+  transition: all 0.2s ease;
+}
+
+#voice-assistant-widget button:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+#voice-assistant-widget button:active {
+  transform: translateY(0);
+}

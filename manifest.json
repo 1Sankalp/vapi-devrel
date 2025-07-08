@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "VAPI Widget",
+  "version": "1.0",
+  "description": "AI-powered voice assistant that floats on every webpage",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*",
+    "https://api.groq.com/"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["content.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Voice Assistant"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["lib/vapi.min.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}
