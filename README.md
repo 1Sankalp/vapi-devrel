@@ -86,7 +86,7 @@ Built for the Vapi DevRel Challenge — by Sankalp Shrivastava.
 
 # Social Launch Posts
 
-# (Twtitter)
+# (Twitter)
 
 🔊 What if every website had a voice?
 
@@ -109,8 +109,6 @@ It replies in real-time voice, using Groq for reasoning and Vapi for streaming v
 I built this for the Vapi DevRel challenge to explore what voice agents could be when they’re not just “chatbots that talk,” but true interfaces to content, context, and tools.
 
 It’s been fun combining voice, utility, and interface innovation — and I think this kind of persistent, page-aware voice assistant will become increasingly useful.
-
-Blog + demo dropping soon.
 
 Thanks to the Vapi team for the opportunity.
 
