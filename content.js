@@ -1,4 +1,5 @@
 // Inject a floating voice button for voice Q&A
+require('dotenv').config();
 (function() {
   if (window.voiceAssistantInjected) return;
   window.voiceAssistantInjected = true;
@@ -42,8 +43,8 @@
   document.body.appendChild(respBox);
 
   // Speech recognition setup
-  const GROQ_API_KEY = "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";
-  const VAPI_PUBLIC_KEY = "e6e4f797-344d-44d3-8b54-21a725776fb9";
+  const GROQ_API_KEY = process.env.GROQ_API_KEY;
+  const VAPI_PUBLIC_KEY = process.env.VAPI_PUBLIC_KEY;
   let recognition;
   let listening = false;
   let vapi = null;

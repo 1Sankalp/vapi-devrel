@@ -88,7 +88,7 @@ Built for the Vapi DevRel Challenge — by Sankalp Shrivastava.
 
 # (Twitter)
 
-🔊 What if every website had a voice?
+What if every website had a voice?
 
 I built a Chrome extension using @vapi_ai + @groqinc that adds a voice assistant to every page you visit.
 

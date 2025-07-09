@@ -1,6 +1,8 @@
 // Popup script for text Q&A about the current page
-const GROQ_API_KEY = "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";
-const VAPI_PUBLIC_KEY = "e6e4f797-344d-44d3-8b54-21a725776fb9"; // Define this for clarity
+require('dotenv').config();
+
+const GROQ_API_KEY = process.env.GROQ_API_KEY;
+const VAPI_PUBLIC_KEY = process.env.VAPI_PUBLIC_KEY;
 
 
 document.addEventListener('DOMContentLoaded', function() {
