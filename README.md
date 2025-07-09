@@ -135,13 +135,13 @@ Built for the Vapi DevRel Challenge - by Sankalp Shrivastava.
 
 # (Twitter)
 
-> What if every website had a voice?
+```What if every website had a voice?
 
-> I built a Chrome extension using @vapi_ai + @groqinc that adds a voice assistant to every page you visit.
+I built a Chrome extension using @vapi_ai + @groqinc that adds a voice assistant to every page you visit.
 
 You can ask it questions about whatever you're looking at - and it responds instantly, in real-time voice.
 
-Here’s how it works 👇 (A thread)
+Here’s how it works 👇 (A thread)```
 >
 Once installed, the extension adds a floating “🎤 Ask about this page” button to every website you open.
 
