@@ -143,73 +143,61 @@ Built for the Vapi DevRel Challenge - by Sankalp Shrivastava.
 >
 >Here’s how it works 👇 (A thread)
 
-Tweet #2
-
-Once installed, the extension adds a floating “🎤 Ask about this page” button to every website you open.
-
-Click it. Speak your question. The assistant listens, understands the page you’re on – and speaks the answer back.
-
-No typing. No reading walls of text.
+>Once installed, the extension adds a floating “🎤 Ask about this page” button to every website you open.
 >
-@groqinc provides lightning-fast LLM responses with almost zero latency
+>Click it. Speak your question. The assistant listens, understands the page you’re on – and speaks the answer back.
+>
+>No typing. No reading walls of text.
 
-@vapi_ai gives it a natural, streaming voice - so it feels like a human conversation
+>@groqinc provides lightning-fast LLM responses with almost zero latency
+>
+>@vapi_ai gives it a natural, streaming voice - so it feels like a human conversation
+>
+>Chrome APIs let me grab the current page's text, title, and URL for full context
 
-Chrome APIs let me grab the current page's text, title, and URL for full context
+>The assistant understands context:
+>
+>You can ask:
+>
+> - “What’s this page about?”
+>
+> - “Summarize this for me”
+>
+> - “Explain this in simple terms”
+>
+> - “How does this compare to X?”
 
-Tweet #3
+>And it’ll respond like a voice-native co-pilot.
 
-The assistant understands context:
+>Why voice output is the unlock:
+>
+>Everyone talks about voice input. But voice replies are faster, more human, and more natural to consume.
+>It feels like having a smart friend explain things - without you needing to scan or scroll.
 
-You can ask:
+>Built this for the @vapi_ai DevRel Challenge to explore:
+>What if voice agents weren’t just chatbots that speak...
+>...but true interfaces to content, context, and tools?
+>
+>The result: a persistent, intelligent, tab-aware voice assistant.
 
-- “What’s this page about?”
+>Imagine the use cases:
+>
+> - Devs asking docs for help
+>
+> - Visually impaired users getting real-time summaries
+>
+> - Shoppers comparing products out loud
+>
+> - Students asking articles for TL;DRs
+>
+> - Voice agents that can take actions (click buttons, fill forms)
+>
+> The interface layer is the unlock.
 
-- “Summarize this for me”
-
-- “Explain this in simple terms”
-
-- “How does this compare to X?”
-
-And it’ll respond like a voice-native co-pilot.
-
-Tweet #4
-
-Why voice output is the unlock:
-
-Everyone talks about voice input. But voice replies are faster, more human, and more natural to consume.
-It feels like having a smart friend explain things - without you needing to scan or scroll.
-
-Tweet #5
-
-Built this for the @vapi_ai DevRel Challenge to explore:
-What if voice agents weren’t just chatbots that speak...
-...but true interfaces to content, context, and tools?
-
-The result: a persistent, intelligent, tab-aware voice assistant.
-
-Tweet #6
-
-Imagine the use cases:
-
-- Devs asking docs for help
-
-- Visually impaired users getting real-time summaries
-
-- Shoppers comparing products out loud
-
-- Students asking articles for TL;DRs
-
-- Voice agents that can take actions (click buttons, fill forms)
-
-The interface layer is the unlock.
-
-Tweet #7
-
-This is not "AI for the sake of AI."
-
-It’s utility. It’s interface evolution.
-It’s the browser talking back.
+>This is not "AI for the sake of AI."
+>
+>It’s utility. It’s interface evolution.
+>It’s the browser talking back.
 
 # (LinkedIn)
 
