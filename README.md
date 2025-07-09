@@ -135,69 +135,83 @@ Built for the Vapi DevRel Challenge - by Sankalp Shrivastava.
 
 # (Twitter)
 
->What if every website had a voice?
->
->I built a Chrome extension using @vapi_ai + @groqinc that adds a voice assistant to every page you visit.
->
->You can ask it questions about whatever you're looking at - and it responds instantly, in real-time voice.
->
->Here’s how it works 👇 (A thread)
+What if every website had a voice?
 
->Once installed, the extension adds a floating “🎤 Ask about this page” button to every website you open.
->
->Click it. Speak your question. The assistant listens, understands the page you’re on – and speaks the answer back.
->
->No typing. No reading walls of text.
+I built a Chrome extension using @vapi_ai + @groqinc that adds a voice assistant to every page you visit.
 
->@groqinc provides lightning-fast LLM responses with almost zero latency
->
->@vapi_ai gives it a natural, streaming voice - so it feels like a human conversation
->
->Chrome APIs let me grab the current page's text, title, and URL for full context
+You can ask it questions about whatever you're looking at - and it responds instantly, in real-time voice.
 
->The assistant understands context:
->
->You can ask:
->
-> - “What’s this page about?”
->
-> - “Summarize this for me”
->
-> - “Explain this in simple terms”
->
-> - “How does this compare to X?”
+Here’s how it works 👇 (A thread)
 
->And it’ll respond like a voice-native co-pilot.
+---
 
->Why voice output is the unlock:
->
->Everyone talks about voice input. But voice replies are faster, more human, and more natural to consume.
->It feels like having a smart friend explain things - without you needing to scan or scroll.
+Once installed, the extension adds a floating “🎤 Ask about this page” button to every website you open.
 
->Built this for the @vapi_ai DevRel Challenge to explore:
->What if voice agents weren’t just chatbots that speak...
->...but true interfaces to content, context, and tools?
->
->The result: a persistent, intelligent, tab-aware voice assistant.
+Click it. Speak your question. The assistant listens, understands the page you’re on – and speaks the answer back.
 
->Imagine the use cases:
->
-> - Devs asking docs for help
->
-> - Visually impaired users getting real-time summaries
->
-> - Shoppers comparing products out loud
->
-> - Students asking articles for TL;DRs
->
-> - Voice agents that can take actions (click buttons, fill forms)
->
-> The interface layer is the unlock.
+No typing. No reading walls of text.
 
->This is not "AI for the sake of AI."
->
->It’s utility. It’s interface evolution.
->It’s the browser talking back.
+---
+
+@groqinc provides lightning-fast LLM responses with almost zero latency
+
+@vapi_ai gives it a natural, streaming voice - so it feels like a human conversation
+
+Chrome APIs let me grab the current page's text, title, and URL for full context
+
+---
+
+The assistant understands context:
+
+You can ask:
+
+- “What’s this page about?”
+
+- “Summarize this for me”
+
+- “Explain this in simple terms”
+
+- “How does this compare to X?”
+
+And it’ll respond like a voice-native co-pilot.
+
+---
+
+Why voice output is the unlock:
+
+Everyone talks about voice input. But voice replies are faster, more human, and more natural to consume.
+It feels like having a smart friend explain things - without you needing to scan or scroll.
+
+---
+
+Built this for the @vapi_ai DevRel Challenge to explore:
+What if voice agents weren’t just chatbots that speak...
+...but true interfaces to content, context, and tools?
+
+The result: a persistent, intelligent, tab-aware voice assistant.
+
+---
+
+Imagine the use cases:
+
+- Devs asking docs for help
+
+- Visually impaired users getting real-time summaries
+
+- Shoppers comparing products out loud
+
+- Students asking articles for TL;DRs
+
+- Voice agents that can take actions (click buttons, fill forms)
+
+The interface layer is the unlock.
+
+---
+
+This is not "AI for the sake of AI."
+
+It’s utility. It’s interface evolution.
+It’s the browser talking back.
 
 # (LinkedIn)
 
